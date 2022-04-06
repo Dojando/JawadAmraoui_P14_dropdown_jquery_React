@@ -8,7 +8,7 @@
     "dropdown",
     "jquery"
   ],
-  "version": "0.7.1",
+  "version": "0.7.2",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
